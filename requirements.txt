@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+python-dotenv
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+langgraph
+
