@@ -1,5 +1,4 @@
 # AI Search Tool for Monster Hunter Wilds
-**Note: This project is still under development.**
 
 
 ## Overview
